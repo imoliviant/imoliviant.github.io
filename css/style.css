@@ -33,6 +33,7 @@ nav{
   letter-spacing: 3px;
   cursor: pointer;
   text-transform: uppercase;
+  font-family: 'Silkscreen', monospace;
 }
 b{
   font-size: 70px;
@@ -62,5 +63,4 @@ b{
 }
 .links a:hover{
   color: #7f00ff;
-}
 }
